@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 changes from main
-conflict
+create branch new
+these chages will cause a conflict
+>>>>>>> new
